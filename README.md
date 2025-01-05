@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Alfredo 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Java, Typecript
+- 🌱 Typecript
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
