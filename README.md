@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Alfredo 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como dev Front-end
 - 🌱 Typecript
 
   <div style="display: inline_block"><br>
