@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Lucas Alfredo 👋
 
-- Minha jornada profissional é marcada pela curiosidade e pela busca por soluções lógicas. Vindo da área de Direito, onde a precisão e a análise detalhada são essenciais, hoje aplico essas mesmas competências na programação.
-
-- Estou focado em tecnologias Back-end como C# e .NET Framework  ASP.Net MVC, e no Front-end utilizo JavaScript, GIT, HTML e CSS. Estou sempre em busca de novos desafios e em constante aprendizado para construir projetos que sejam funcionais e bem estruturados.
   
 
 <div style="display: inline_block"><br>
